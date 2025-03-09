@@ -1,0 +1,9 @@
+I believe I am a great fit for this position due to my strong background in machine learning, deep learning, and AI-driven automation. My experience spans across data science, model evaluation, and software development, with hands-on expertise in Python, SQL, TensorFlow, PyTorch, and scikit-learn.
+
+During my internship at Feynn Labs, I worked on Backorder Prediction with Business and Financial Modeling, where I integrated AI insights into financial planning to optimize profitability. Additionally, as a Data Analyst Intern at Technocolabs Softwares, I conducted credit risk analysis on the European lending platform Bondora, deploying machine learning models to assess lending risks.
+
+One of my most impactful projects is an AutoML platform, which I developed to automate data preprocessing, model training, and evaluation through a web-based interface using Flask, React, MongoDB, and MySQL. This project aligns with my goal of making machine learning accessible while enhancing automation in AI workflows.
+
+I am also a finalist in the Kongsberg Maritime Techathon 2024, where I developed a data-driven energy efficiency model integrating solar forecasting, power consumption prediction, and AI-driven energy optimization. My strong problem-solving skills and ability to develop innovative AI solutions make me an excellent candidate for this role.
+
+With my technical expertise, hands-on project experience, and a passion for leveraging AI in real-world applications, I am confident that I can contribute effectively to your team. I am eager to bring my data-driven mindset and automation skills to drive meaningful impact in this role.
